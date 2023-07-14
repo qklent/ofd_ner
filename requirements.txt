@@ -1,0 +1,12 @@
+pandas
+nltk
+spacy
+tqdm
+nump
+ipykernel
+razdel
+transformers
+torch
+datasets
+evaluate
+seqeval
