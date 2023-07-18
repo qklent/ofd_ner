@@ -1,3 +1,8 @@
+import pandas as pd
+import string
+import re
+
+# еще надо написать что делать если подвли пример, который мой скрипт не можетт обработать(там где он exception кидает)
 #тут можно еще сделать ru_to_eng(дада и такие странные примеры есть)
 def eng_to_ru(word: str) -> str:
     if len(word) <= 1:
